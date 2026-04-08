@@ -1,0 +1,22 @@
+# fast vector search (core of your RAG)
+faiss-cpu
+
+# ChatGPT-like UI
+streamlit 
+
+# embeddings + LLM
+openai
+
+# load API key
+python-dotenv
+
+# vector handling
+numpy
+
+# chunking safely
+tiktoken
+
+# read PDFs
+pdfplumber 
+
+
