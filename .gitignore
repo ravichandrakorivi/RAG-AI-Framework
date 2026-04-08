@@ -4,3 +4,7 @@ pdfs/
 outputs/
 books/
 generated_mcqs/
+
+*.pkl
+*.index
+
