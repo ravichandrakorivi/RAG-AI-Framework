@@ -8,3 +8,4 @@ generated_mcqs/
 *.pkl
 *.index
 
+__pycache__
